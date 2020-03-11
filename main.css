@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+* {
+    font-family: Nunito;
+}
+* {
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    /* min-height: 100vh; */
+    flex-wrap: 9.09%;
+}
+.containerbottom {
+    display: flex;
+    /* min-height: 100vh; */
+    flex-wrap: 33.33%;
+}
+.box1 { background: #6ea367;
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;
+    }
+.box1 a:link, .box1 a:hover, .box1 a:visited, .box1 a :active
+  {
+    color: #efed9f;
+}
+
+.box2 { background: rgba(239, 237, 159, 1);
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;
+    }
+.box2 a:link, .box2 a:hover, .box2 a:visited, .box2 a :active
+    {
+      color: rgba(88, 138, 81, 1);
+}
+.box3 { font-size: 15px;
+        padding: 20px 20px;
+        text-align: left;}
+.box4 { font-size: 15px;
+        padding: 20px 480px;
+        text-align: center;}
+.box5 { font-size: 15px;
+        padding: 20px 20px;
+        text-align: right;}
+/* .box6 { background: rgba(239, 237, 159, 1);
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;}
+.box7 { background: #6ea367;
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;}
+.box8 { background: rgba(239, 237, 159, 1);
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;}
+.box9 { background: #6ea367;
+        font-size: 15px;
+        padding: 20px 10px;
+        text-align: center;}
+.box10 { background: rgba(239, 237, 159, 1);
+         font-size: 15px;
+         padding: 20px 10px;
+         text-align: center;}
+.box11 { background: #6ea367;
+         font-size: 15px;
+         padding: 20px 10px;
+         text-align: center;} */
+
+.home{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: center;
+    font-size: 20px;
+}
+.aboutme{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.purpose{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.skills{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.website{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.risksdigital{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.rightit{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.chosentec{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.gdpr{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.copyright{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.accessissue{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.websitetypes{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.large{
+    font-size: 100px;
+}
+.medium{
+    font-size: 80px;
+}
+
+.smaller{
+    font-size: 25px;
+}
+strong{
+    font-weight: bold;
+    font-size: 22px;
+}
