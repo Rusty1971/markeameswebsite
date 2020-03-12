@@ -34,13 +34,13 @@
       color: rgba(88, 138, 81, 1);
 }
 .box3 { font-size: 15px;
-        padding: 20px 20px;
+        /* padding: 20px 20px; */
         text-align: left;}
 .box4 { font-size: 15px;
-        padding: 20px 480px;
+        /* padding: 20px 480px; */
         text-align: center;}
 .box5 { font-size: 15px;
-        padding: 20px 0px;
+        /* padding: 20px 0px; */
         text-align: right;}
 
 
