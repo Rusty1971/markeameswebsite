@@ -8,12 +8,10 @@
 }
 .container {
     display: flex;
-    /* min-height: 100vh; */
     flex-wrap: 9.09%;
 }
 .containerbottom {
     display: flex;
-    /* min-height: 100vh; */
     flex-wrap: 33.33%;
 }
 .box1 { background: #6ea367;
@@ -44,30 +42,7 @@
 .box5 { font-size: 15px;
         padding: 20px 20px;
         text-align: right;}
-/* .box6 { background: rgba(239, 237, 159, 1);
-        font-size: 15px;
-        padding: 20px 10px;
-        text-align: center;}
-.box7 { background: #6ea367;
-        font-size: 15px;
-        padding: 20px 10px;
-        text-align: center;}
-.box8 { background: rgba(239, 237, 159, 1);
-        font-size: 15px;
-        padding: 20px 10px;
-        text-align: center;}
-.box9 { background: #6ea367;
-        font-size: 15px;
-        padding: 20px 10px;
-        text-align: center;}
-.box10 { background: rgba(239, 237, 159, 1);
-         font-size: 15px;
-         padding: 20px 10px;
-         text-align: center;}
-.box11 { background: #6ea367;
-         font-size: 15px;
-         padding: 20px 10px;
-         text-align: center;} */
+
 
 .home{
     background-color: rgba(88, 138, 81, 1);
@@ -153,6 +128,20 @@
     text-align: justify;
     font-size: 20px;
 }
+.reviewpoints{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
+.reviewpoints2{
+    background-color: rgba(88, 138, 81, 1);
+    color: rgba(239, 237, 159, 1);
+    margin: 60px 20px 0px;
+    text-align: justify;
+    font-size: 20px;
+}
 .large{
     font-size: 100px;
 }
@@ -166,4 +155,7 @@
 strong{
     font-weight: bold;
     font-size: 22px;
+}
+.tab{
+    margin-left: 40px;
 }
