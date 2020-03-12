@@ -34,14 +34,15 @@
       color: rgba(88, 138, 81, 1);
 }
 .box3 { font-size: 15px;
-        padding: 20px 20px;
-        text-align: left;}
+        padding: 20px 40px;
+        text-align: center;
+        margin-left: 33%;}
 .box4 { font-size: 15px;
-        padding: 20px 480px;
+        padding: 20px 40px;
         text-align: center;}
 .box5 { font-size: 15px;
-        padding: 20px 20px;
-        text-align: right;}
+        padding: 20px 40px;
+        text-align: center;}
 
 
 .home{
