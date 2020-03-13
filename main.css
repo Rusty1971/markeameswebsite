@@ -160,3 +160,11 @@ strong{
 .tab{
     margin-left: 40px;
 }
+.picture img{
+    padding: 10px;
+    border-radius: 15px;
+    transition:border-radius 1s;
+}
+.picture:hover img{
+    border-radius: 25%;
+}
